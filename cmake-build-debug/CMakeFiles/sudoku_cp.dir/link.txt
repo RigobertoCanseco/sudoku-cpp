@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/sudoku_cp.dir/sudoku/v1/ResuelveZudoku.cpp.o  -o sudoku_cp 

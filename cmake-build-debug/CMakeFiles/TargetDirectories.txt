@@ -1,0 +1,3 @@
+/home/rigoberto/Documentos/projects/sudoku-cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/rigoberto/Documentos/projects/sudoku-cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rigoberto/Documentos/projects/sudoku-cpp/cmake-build-debug/CMakeFiles/sudoku_cpp.dir
